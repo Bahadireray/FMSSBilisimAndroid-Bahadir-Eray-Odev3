@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.patika.week3.app-mergeDebugResources-45:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.patika.week3.app-main-48:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.patika.week3.app-mergeDebugResources-45:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.patika.week3.app-main-48:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "com.patika.week3.app-mergeDebugResources-45:/layout/fragment_home.xml",
+        "source": "com.patika.week3.app-main-48:/layout/fragment_home.xml"
+    }
+]
