@@ -19,5 +19,6 @@ Uygulamayı öldürmeyi yani kapatmayı ele aldığımız zaman hatta kapatmasak
 ![image](https://user-images.githubusercontent.com/57098047/189316474-6924319b-b011-4ba3-a42c-c95f0bfc5f8d.png)
 
 
+
 Katılım sağladığımız eğitimin 3. haftanın ikinci ödevine paylaşmış olduğum adresten erişim sağlabilirsiniz.
 ### https://github.com/FMSSBilisimAndroid/Bahadir-Eray-Week3-2
